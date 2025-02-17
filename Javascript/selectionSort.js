@@ -1,5 +1,4 @@
 function selectionSort(array) {
-    // Only change code below this line
     const orderedArray = [];
     const arrayLength = array.length;
 
@@ -20,7 +19,6 @@ function selectionSort(array) {
     }
 
     return orderedArray;
-    // Only change code above this line
   }
 
   selectionSort([5, 3, 6, 1, 8, 7, 2, 4]);
